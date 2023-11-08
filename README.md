@@ -1,5 +1,5 @@
 # ansible-project
-Ansible PlayBook handles a series of essential operations on managed nodes, making it a breeze to configure Docker, start Docker services, pull an httpd server image from Docker Hub, launch a Docker container, and expose it to the world.
+Ansible PlayBook handles a series of essential operations on managed nodes, making it a breeze to configure Docker, start Docker services, pull an httpd server image from Docker Hub, launch a Docker container, and expose it to the world..
 
 𝐀𝐧𝐬𝐢𝐛𝐥𝐞 𝐏𝐥𝐚𝐲𝐁𝐨𝐨𝐤 𝐭𝐡𝐚𝐭 𝐜𝐚𝐧 𝐬𝐭𝐫𝐞𝐚𝐦𝐥𝐢𝐧𝐞 𝐲𝐨𝐮𝐫 𝐨𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐬 𝐨𝐧 𝐦𝐚𝐧𝐚𝐠𝐞𝐝 𝐧𝐨𝐝𝐞𝐬 𝐥𝐢𝐤𝐞 𝐧𝐞𝐯𝐞𝐫 𝐛𝐞𝐟𝐨𝐫𝐞! 🚀🔥
 
